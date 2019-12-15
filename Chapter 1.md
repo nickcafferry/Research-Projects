@@ -19,3 +19,24 @@ Instead of manually deriving rules and building models from analyzing large amou
 * Unsupervised learning;
 * Reinforcement learning.
 
+# Making predictions about the future with supervised learning
+
+Supervised learning is to learn a model from labeled training data that allows us to make predictions about unseen or future data. The term supervised refers to a set of samples where the desired output signals (labels) are already known.
+
+There are two categories about supervised learning:
+* A supervised learning task with discrete class labels is also called a classification task.
+* A supervised learning task with continuous value of the outcome signals is called regression.
+
+# Regression for predicting continuous outcomes
+* Classification: Assign categorical, unordered labels to instances;
+* Regression analysis: Predict continuous outcomes.
+
+# Solving interactive problems with reinforcement learning
+
+Another type of machine learning is reinforcement learning. The goal is to develop a system (agent) that improves its performance based on interactions with the environment.
+
+A popular example of reinforcement learning is a chess engine.
+
+## Discovering hidden structures with unsupervised learning
+
+In supervised learning. we know the right answer beforehand. In unsupervised learning, though, we are dealing with data of unknown structure. We are going to extract meaningful information without the guidance of a known outcome variable or reward function.
