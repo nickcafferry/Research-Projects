@@ -5,4 +5,13 @@
 Research Projects
 =================
 
-College
+College Student Inovation
+
+.. raw:: html
+
+    <div class="slideshow">
+
+            <iframe style="border: none; width: 100%; height: 402px" name="embedded_lecture1_anywhere" src="_static/College%20Student%20Inovation/college_student_inovation.html"></iframe>
+
+        </div>
+        
